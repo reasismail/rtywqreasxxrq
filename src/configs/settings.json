@@ -1,0 +1,34 @@
+{
+  "token": "",
+  "prefix": [".","!","J!"],
+  "guildID": "1033456858591141898",
+  "mongoUrl": "mongodb+srv://sydrabeyy:sydrabeyy3131@cluster0.gstkn.mongodb.net/ismail31?retryWrites=true&w=majority",
+  "owners": ["815920188113027075",""],
+  "botDurum": "ısmaıl 🤍 Schwarz",
+  "botSes": "1033456860700872707",
+  "registerPerm": "1033456858775695377",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+
+  "messageCount": 1,
+  "messageCoin": 2,
+  "voiceCount": 1,
+  "voiceCoin": 4,
+  "publicCoin": 4,
+  "inviteCount": 1,
+  "inviteCoin": 15,
+  "taggedCoin": 25,
+  "toplamsCoin": 5.5,
+  "yetkiCoin": 30,
+
+ 
+  "banlimit": 3,
+  "jaillimit": 3,
+  "warnlimit": 3,
+  "chatmutelimit": 3,
+  "voicemutelimit": 3
+}
